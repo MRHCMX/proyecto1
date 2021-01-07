@@ -6,4 +6,4 @@ La fuerza divina en ti siempre ....
 
 Son las The current time is: 12:00:54.25
 
-La fecha es 
+La fecha es The current date is: 2021-01-07
